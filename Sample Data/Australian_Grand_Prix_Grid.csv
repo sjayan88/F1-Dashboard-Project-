@@ -1,0 +1,21 @@
+DriverId,DriverNumber,FullName,Abbreviation,TeamName,GridPosition,Position,Status,EventName,RaceDate,RoundNumber,Season,SessionType
+norris,4,Lando Norris,NOR,McLaren,1.0,1.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+max_verstappen,1,Max Verstappen,VER,Red Bull Racing,3.0,2.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+russell,63,George Russell,RUS,Mercedes,4.0,3.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+antonelli,12,Andrea Kimi Antonelli,ANT,Mercedes,16.0,4.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+albon,23,Alexander Albon,ALB,Williams,6.0,5.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+stroll,18,Lance Stroll,STR,Aston Martin,13.0,6.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+hulkenberg,27,Nico Hulkenberg,HUL,Kick Sauber,17.0,7.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+leclerc,16,Charles Leclerc,LEC,Ferrari,7.0,8.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+piastri,81,Oscar Piastri,PIA,McLaren,2.0,9.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+hamilton,44,Lewis Hamilton,HAM,Ferrari,8.0,10.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+gasly,10,Pierre Gasly,GAS,Alpine,9.0,11.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+tsunoda,22,Yuki Tsunoda,TSU,Racing Bulls,5.0,12.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+ocon,31,Esteban Ocon,OCO,Haas F1 Team,19.0,13.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+bearman,87,Oliver Bearman,BEA,Haas F1 Team,20.0,14.0,Finished,Australian Grand Prix,2025-03-16,1,2025,R
+lawson,30,Liam Lawson,LAW,Red Bull Racing,18.0,15.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R
+bortoleto,5,Gabriel Bortoleto,BOR,Kick Sauber,15.0,16.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R
+alonso,14,Fernando Alonso,ALO,Aston Martin,12.0,17.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R
+sainz,55,Carlos Sainz,SAI,Williams,10.0,18.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R
+doohan,7,Jack Doohan,DOO,Alpine,14.0,19.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R
+hadjar,6,Isack Hadjar,HAD,Racing Bulls,11.0,20.0,Retired,Australian Grand Prix,2025-03-16,1,2025,R

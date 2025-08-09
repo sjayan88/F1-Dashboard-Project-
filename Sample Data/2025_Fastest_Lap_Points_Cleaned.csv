@@ -1,0 +1,15 @@
+Season,EventName,RoundNumber,DriverAbbreviation,DriverId,FastestLapTime,FinishPosition,IsTop10Finish,IsEligibleForFLPoint,BonusPoint,FastestLapTime_cleaned,FastestLapTime_seconds
+2025,Australian Grand Prix,1,NOR,norris,0 days 00:01:22.167000,1,TRUE,TRUE,0,01:22.2,82.167
+2025,Chinese Grand Prix,2,NOR,norris,0 days 00:01:35.454000,2,FALSE,FALSE,0,01:35.1,95.454
+2025,Japanese Grand Prix,3,ANT,antonelli,0 days 00:01:30.965000,6,TRUE,TRUE,0,01:31.0,90.965
+2025,Bahrain Grand Prix,4,PIA,piastri,0 days 00:01:35.140000,1,TRUE,TRUE,0,01:35.1,95.14
+2025,Saudi Arabian Grand Prix,5,NOR,norris,0 days 00:01:31.778000,4,TRUE,TRUE,0,01:31.8,91.778
+2025,Miami Grand Prix,6,NOR,norris,0 days 00:01:29.746000,2,TRUE,TRUE,0,01:29.7,89.746
+2025,Emilia Romagna Grand Prix,7,VER,max_verstappen,0 days 00:01:17.988000,1,TRUE,TRUE,0,01:18.0,77.988
+2025,Monaco Grand Prix,8,NOR,norris,0 days 00:01:13.221000,1,TRUE,TRUE,0,01:13.2,73.221
+2025,Spanish Grand Prix,9,PIA,piastri,0 days 00:01:15.743000,1,TRUE,TRUE,0,01:15.7,75.743
+2025,Canadian Grand Prix,10,RUS,russell,0 days 00:01:14.119000,1,TRUE,TRUE,0,01:14.1,74.119
+2025,Austrian Grand Prix,11,PIA,piastri,0 days 00:01:07.924000,2,TRUE,TRUE,0,01:07.9,67.924
+2025,British Grand Prix,12,PIA,piastri,0 days 00:01:29.337000,2,TRUE,TRUE,0,01:29.3,89.337
+2025,Belgian Grand Prix,13,ANT,antonelli,0 days 00:01:44.861000,16,FALSE,FALSE,0,01:44.9,104.861
+2025,Hungarian Grand Prix,14,RUS,russell,0 days 00:01:19.409000,3,TRUE,TRUE,0,01:19.4,79.409
