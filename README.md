@@ -43,6 +43,16 @@ This is an **active, multi-phase project** designed to evolve into a comprehensi
 - *(Planned)* PostgreSQL for historical data management
 - *(Planned)* AI/LLM for natural language analytics
 
+
+## Development Notes
+
+- Python scripts developed using [FastF1](https://theoehrly.github.io/Fast-F1/) for extracting official race weekend timing and result data.  
+- Data processing performed with **Pandas** and exported to CSV for use in Power BI.  
+- ChatGPT was used as a coding assistant for:
+  - Drafting and optimizing **DAX measures** for Power BI visuals.
+  - Suggesting improvements in Python code structure and debugging.
+- All scripts and transformations were manually reviewed, debugged, and tested before use.
+
 ---
 
 ##  Repository Structure
@@ -119,8 +129,7 @@ This is an **active, multi-phase project** designed to evolve into a comprehensi
 - Phase 4:  Planned — AI-driven Q&A on F1 data.
 
 ## Contact
-For feedback or technical discussions:
-<Sreekesh> – linkedin.com/in/sreekesh-j-75b74015
+For feedback or technical discussions: [Sreekesh](https://www.linkedin.com/in/sreekesh-j-75b74015)
 
 ## Disclaimer
 This is an unofficial, personal project and is not associated with Formula 1, FIA, or any teams/drivers.
